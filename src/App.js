@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import * as React from "react";
+import { Route, BrowserRouter, Switch } from "react-router-dom";
+import Container from "@mui/material/Container";
 
-function App() {
+import { useHistory, useParams, useLocation } from "react-router-dom";
+import { Header, Experiment, ExperimentList } from "./components";
+
+const App = () => {
+  const history = useHistory();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <BrowserRouter>
+      <Header />
+      <Switch>
+        <Route path="/exp/:page/:id" component={Experiment} />
 
+        <Route path="/" component={ExperimentList} />
+      </Switch>
+    </BrowserRouter>
+  );
+};
 export default App;

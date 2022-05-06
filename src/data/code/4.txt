@@ -1,0 +1,27 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#include<ctype.h>
+
+void main()
+{
+    char c[100];
+    gets(c);
+    int l=strlen(c);
+        if(isdigit(c[0]))
+        {
+            printf("Invalid"); return;
+        }
+        if(!isalpha(c[0]) && !isdigit(c[0]) && c[0]!='_')
+        {
+             printf("Invalid"); return;
+        }
+        for(int i=1;i<l;i++)
+        {
+           if(!isalpha(c[i]) && !isdigit(c[i]) && c[i]!='_')
+            {
+                printf("Invalid"); return;
+            } 
+        }
+    printf("Valid"); return;
+}

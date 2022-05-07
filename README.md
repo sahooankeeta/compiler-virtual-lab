@@ -29,22 +29,22 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 <h2>Landing Page</h2>
- <a href="https://drive.google.com/uc?export=view&id=1r7iXYK9b7EzJngR68igogJ-_YpeImlqq"><img src="https://drive.google.com/uc?export=view&id=1r7iXYK9b7EzJngR68igogJ-_YpeImlqq"  />
+ <a href="https://drive.google.com/uc?export=view&id=1r7iXYK9b7EzJngR68igogJ-_YpeImlqq"><img src="https://drive.google.com/uc?export=view&id=1r7iXYK9b7EzJngR68igogJ-_YpeImlqq" alt="landing" />
   
 <h2>Aim Page</h2>
- <a href="https://drive.google.com/uc?export=view&id=1SIasRk9cNw1QyniTsDaXmID5DTvCBdvY"><img src="https://drive.google.com/uc?export=view&id=1SIasRk9cNw1QyniTsDaXmID5DTvCBdvY"  />
+ <a href="https://drive.google.com/uc?export=view&id=1SIasRk9cNw1QyniTsDaXmID5DTvCBdvY"><img src="https://drive.google.com/uc?export=view&id=1SIasRk9cNw1QyniTsDaXmID5DTvCBdvY" alt="aim" />
    
 <h2>Theory Page</h2>
- <a href="https://drive.google.com/uc?export=view&id=1ZYdeHiPRSGY69CFE3Zy6jcpDrwDf4HpI"><img src="https://drive.google.com/uc?export=view&id=1ZYdeHiPRSGY69CFE3Zy6jcpDrwDf4HpI"  />
+ <a href="https://drive.google.com/uc?export=view&id=1ZYdeHiPRSGY69CFE3Zy6jcpDrwDf4HpI"><img src="https://drive.google.com/uc?export=view&id=1ZYdeHiPRSGY69CFE3Zy6jcpDrwDf4HpI" alt="theory"  />
    
 <h2>PreTest Page</h2>
- <a href="https://drive.google.com/uc?export=view&id=1SHTHQAY6XHMpm8KTm4nRWBBq1sJZVZiJ"><img src="https://drive.google.com/uc?export=view&id=1SHTHQAY6XHMpm8KTm4nRWBBq1sJZVZiJ"  />
+ <a href="https://drive.google.com/uc?export=view&id=1SHTHQAY6XHMpm8KTm4nRWBBq1sJZVZiJ"><img src="https://drive.google.com/uc?export=view&id=1SHTHQAY6XHMpm8KTm4nRWBBq1sJZVZiJ" alt="pretest" />
    
 <h2>Simulation Page</h2>
- <a href="https://drive.google.com/uc?export=view&id=1TF454ll0TpX1K5xSqhglg0q_rLObyRz-"><img src="https://drive.google.com/uc?export=view&id=1TF454ll0TpX1K5xSqhglg0q_rLObyRz-"  />
+ <a href="https://drive.google.com/uc?export=view&id=1TF454ll0TpX1K5xSqhglg0q_rLObyRz-"><img src="https://drive.google.com/uc?export=view&id=1TF454ll0TpX1K5xSqhglg0q_rLObyRz-" alt="simulation"  />
    
 <h2>PostTest Page</h2>
- <a href="https://drive.google.com/uc?export=view&id=1H4N57yrNqQbRa-k_LvweF0VPYvgYxcxr"><img src="https://drive.google.com/uc?export=view&id=1H4N57yrNqQbRa-k_LvweF0VPYvgYxcxr"  />
+ <a href="https://drive.google.com/uc?export=view&id=1H4N57yrNqQbRa-k_LvweF0VPYvgYxcxr"><img src="https://drive.google.com/uc?export=view&id=1H4N57yrNqQbRa-k_LvweF0VPYvgYxcxr" alt="post-test" />
    
 <h2>References Page</h2>
- <a href="https://drive.google.com/uc?export=view&id=1cdTCuI1pURH7vCipvYgJEPMUHMhD4ZPL"><img src="https://drive.google.com/uc?export=view&id=1cdTCuI1pURH7vCipvYgJEPMUHMhD4ZPL"  />
+ <a href="https://drive.google.com/uc?export=view&id=1cdTCuI1pURH7vCipvYgJEPMUHMhD4ZPL"><img src="https://drive.google.com/uc?export=view&id=1cdTCuI1pURH7vCipvYgJEPMUHMhD4ZPL" alt="references" />

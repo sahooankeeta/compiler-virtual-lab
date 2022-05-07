@@ -28,6 +28,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+<strong>You can always come back to the home page by clicking on the heading banner</strong>
+
 <h2>Landing Page</h2>
  <a href="https://drive.google.com/uc?export=view&id=1r7iXYK9b7EzJngR68igogJ-_YpeImlqq"><img src="https://drive.google.com/uc?export=view&id=1r7iXYK9b7EzJngR68igogJ-_YpeImlqq" alt="landing" />
   

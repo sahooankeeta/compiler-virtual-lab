@@ -4,11 +4,21 @@ This project has been deployed on Heroku and can be viewed [here](https://compil
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<ul>
+ <li>Make sure you have NodeJs and Git installed in your local machine</li>
+ <li>Fork this repository</li>
+ <li>Clone your fork down to your local machine</li>
+</ul>
+
+ `git clone https://github.com/sahooankeeta/compiler-virtual-lab.git`
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm init`
+
+This initializes all the necessary packages for this project
 
 ### `npm start`
 
